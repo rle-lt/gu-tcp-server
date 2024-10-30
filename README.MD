@@ -1,6 +1,6 @@
-# Basic TCP Server
+# Basic TCP server
 
-**GU-TCP-SERVER** is a simple and very barebones TCP server made in C.
+**gu-tcp-server** is a simple and very barebones TCP server made in C.
 
 ### Prerequisites
 
@@ -8,7 +8,7 @@ This project requires [GCC](https://gcc.gnu.org/install/) to compile the code us
 
 ### Usage
 
-To compile and run the server, use:
+To compile and run the server, use
 
 ```bash
 make run
